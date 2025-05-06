@@ -1,4 +1,4 @@
-package com.batuhanyalcin.moviesApi;
+package com.zeydalcan.moviesApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
